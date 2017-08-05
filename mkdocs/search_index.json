@@ -1,0 +1,79 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Yang Li (\u8ba9\u68a8)\n\n\n\n\n\n\n\n\n\n\nPhD student, Nanjing University of Science and Technology\n\n\nVisiting scholar, University of Michigan\n\n\n\n\n\n\nBiography\n\n\nYang Li received the BS degree in computer science\nfrom the Nanjing University of Science and\nTechnology, China in 2014. He is currently\nworking toward the PhD degree in the School of\nComputer Science and Engineering, Nanjing University\nof Science and Technology, China. His\nresearch interests include bioinformatics, data\nmining, and pattern recognition\n\n\nInterests\n\n\n\n\nArtificial Intelligence\n\n\nComputational Biology\n\n\nMachine Learning\n\n\nDeep Learning\n\n\n\n\nEducation\n\n\n  Visiting scholar in Bioinformatics,\nUniversity of Michigan\n\n\n PhD student in Parttern Recognition, \nNanjing University of Science and\nTechnology\n\n\n BSc in Computer Science, 2010,\nNanjing University of Science and\nTechnology\n\n\n\n\nRecent publications\n\n\n\n\n\n\nJun Hu, \nYang Li\n, Ming Zhang, Xibei Yang, Hong-Bin Shen, and Dong-Jun Yu. Predicting Protein-DNA Binding Residues by Weightedly Combining Sequence-based Features and Boosting Multiple SVMs [J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics.  2016 (In press) \n\n\n\n\n\n\nGuang-Qing Li, \nYang Li\n, Hong-Bin Shen, and Dong-Jun Yu. TargetM6A: Identifying N6-methyladenosine Sites from RNA Sequences via Position-specific Nucleotide Propensity and Support Vector Machine [J]. IEEE Transactions on NanoBioscience, 2016, 15(7): 674-682. \n\n\n\n\n\n\nJun Hu, \nYang Li\n, Jing-Yu Yang, Hong-Bin Shen, and Dong-Jun Yu. GPCR-drug Interactions Prediction Using Random Forest with Drug-Association-Matrix-Based Post-Processing Procedure [J]. Computational Biology and Chemistry. 2016, 60: 59-71. [DOI: 10.1016/j.compbiolchem.2015.11.007]\n\n\n\n\n\n\nJun Hu, \nYang Li\n, Wu-Xia Yan, Jing-Yu Yang, Hong-Bin Shen, and Dong-Jun Yu. KNN-based Dynamic Query-Driven Sample Rescaling Strategy for Class Imbalance Learning [J]. Neurocomputing, 2016, 191: 363\u2013373.  [DOI: 10.1016/j.neucom.2016.01.043]\n\n\n\n\n\n\nDong-Jun Yu, \nYang Li\n, Jun Hu, Xibei Yang, Jing-Yu Yang, and Hong-Bin Shen. Disulfide Connectivity Prediction Based on Modelled Protein 3D Structural Information and Random Forest Regression [J], IEEE/ACM Transactions on Computational Biology and Bioinformatics. 2015, 12 (3): 611-621. [DOI: 10.1109/TCBB.2014.2359451]\n\n\n\n\n\n\n\n\nRecent projects\n\n\n\n\n\n\n[x] Identifying RNA pseudouridine sites\n\n\n\n\n\n\n[x] Predicting Protein-DNA Binding Residues\n\n\n\n\n\n\n[ ] Direct evolutionary Coupling Analysis\n\n\n\n\n\n\n\n\nWeb Servers\n\n\n\n\nDisulfide Connectivity Prediction",
+            "title": "Home"
+        },
+        {
+            "location": "/#yang-li",
+            "text": "PhD student, Nanjing University of Science and Technology  Visiting scholar, University of Michigan",
+            "title": "Yang Li (\u8ba9\u68a8)"
+        },
+        {
+            "location": "/#biography",
+            "text": "Yang Li received the BS degree in computer science\nfrom the Nanjing University of Science and\nTechnology, China in 2014. He is currently\nworking toward the PhD degree in the School of\nComputer Science and Engineering, Nanjing University\nof Science and Technology, China. His\nresearch interests include bioinformatics, data\nmining, and pattern recognition",
+            "title": "Biography"
+        },
+        {
+            "location": "/#interests",
+            "text": "Artificial Intelligence  Computational Biology  Machine Learning  Deep Learning",
+            "title": "Interests"
+        },
+        {
+            "location": "/#education",
+            "text": "Visiting scholar in Bioinformatics,\nUniversity of Michigan   PhD student in Parttern Recognition, \nNanjing University of Science and\nTechnology   BSc in Computer Science, 2010,\nNanjing University of Science and\nTechnology",
+            "title": "Education"
+        },
+        {
+            "location": "/#recent-publications",
+            "text": "Jun Hu,  Yang Li , Ming Zhang, Xibei Yang, Hong-Bin Shen, and Dong-Jun Yu. Predicting Protein-DNA Binding Residues by Weightedly Combining Sequence-based Features and Boosting Multiple SVMs [J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics.  2016 (In press)     Guang-Qing Li,  Yang Li , Hong-Bin Shen, and Dong-Jun Yu. TargetM6A: Identifying N6-methyladenosine Sites from RNA Sequences via Position-specific Nucleotide Propensity and Support Vector Machine [J]. IEEE Transactions on NanoBioscience, 2016, 15(7): 674-682.     Jun Hu,  Yang Li , Jing-Yu Yang, Hong-Bin Shen, and Dong-Jun Yu. GPCR-drug Interactions Prediction Using Random Forest with Drug-Association-Matrix-Based Post-Processing Procedure [J]. Computational Biology and Chemistry. 2016, 60: 59-71. [DOI: 10.1016/j.compbiolchem.2015.11.007]    Jun Hu,  Yang Li , Wu-Xia Yan, Jing-Yu Yang, Hong-Bin Shen, and Dong-Jun Yu. KNN-based Dynamic Query-Driven Sample Rescaling Strategy for Class Imbalance Learning [J]. Neurocomputing, 2016, 191: 363\u2013373.  [DOI: 10.1016/j.neucom.2016.01.043]    Dong-Jun Yu,  Yang Li , Jun Hu, Xibei Yang, Jing-Yu Yang, and Hong-Bin Shen. Disulfide Connectivity Prediction Based on Modelled Protein 3D Structural Information and Random Forest Regression [J], IEEE/ACM Transactions on Computational Biology and Bioinformatics. 2015, 12 (3): 611-621. [DOI: 10.1109/TCBB.2014.2359451]",
+            "title": "Recent publications"
+        },
+        {
+            "location": "/#recent-projects",
+            "text": "[x] Identifying RNA pseudouridine sites    [x] Predicting Protein-DNA Binding Residues    [ ] Direct evolutionary Coupling Analysis",
+            "title": "Recent projects"
+        },
+        {
+            "location": "/#web-servers",
+            "text": "Disulfide Connectivity Prediction",
+            "title": "Web Servers"
+        },
+        {
+            "location": "/contact/",
+            "text": "Contact\n\n\nBasic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLocation\n\n\n100 Washtenaw Avenue, Ann Arbor, MI 48109\n\n\n\n\n\n\nE-mai\n\n\nliyangum@umich.edu\n\n\n\n\n\n\n\n\nSocial networks",
+            "title": "Contact"
+        },
+        {
+            "location": "/contact/#contact",
+            "text": "",
+            "title": "Contact"
+        },
+        {
+            "location": "/contact/#basic",
+            "text": "Location  100 Washtenaw Avenue, Ann Arbor, MI 48109    E-mai  liyangum@umich.edu",
+            "title": "Basic"
+        },
+        {
+            "location": "/contact/#social-networks",
+            "text": "",
+            "title": "Social networks"
+        },
+        {
+            "location": "/about/",
+            "text": "Quik Links\n\n\nNJUST-CSBIO\n\n\nZhang Lab\n\n\nShow me the money\n\n\nScann the QR code to donate",
+            "title": "About"
+        },
+        {
+            "location": "/about/#quik-links",
+            "text": "NJUST-CSBIO  Zhang Lab",
+            "title": "Quik Links"
+        },
+        {
+            "location": "/about/#show-me-the-money",
+            "text": "Scann the QR code to donate",
+            "title": "Show me the money"
+        }
+    ]
+}
